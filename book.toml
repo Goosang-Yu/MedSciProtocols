@@ -1,0 +1,6 @@
+[book]
+authors = ["Goosang Yu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Medical Science Protocols"
